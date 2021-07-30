@@ -1,0 +1,140 @@
+.Logo{
+	display:  block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	
+}
+
+ul{
+	list-style:none	;
+  }
+
+li{
+	display: inline	;
+	margin: 200px;
+	background-color: white;
+}
+
+nav{
+	background-image: url(RainbowsHeaderBG4.jpg) ;
+	background-size: 250px;
+	background-repeat: repeat;
+}
+li a{
+	text-decoration: none;
+	text-decoration-color: black;
+}
+li a:hover{
+	color: royalblue;
+	text-decoration: underline;
+}
+
+h2
+{  text-align: center;
+	font-family: 'Sacramento';
+	font-size: 40px;
+}
+
+.Intro
+{
+	font-family: 'Caveat', cursive;
+	margin-left: 230px;
+	font-size: 25px;
+	padding-top: 20px;
+	padding-right: 50px;
+	padding-bottom: 60px;
+
+}
+
+.IntroPic
+{
+	margin-right: 230px;
+	margin-top: 30px;
+	float: right;
+	padding-right: 30px;
+	padding-left: 50px;
+}
+.message
+{   border-style: solid;
+	border-radius: 10px;
+	 background: rgba(0,128,0, 0.3);
+}
+
+.whyUs
+{  
+
+	font-family: 'Niconne';
+	font-size: 30px;
+	width: 800px;
+    border-style: hidden;
+	background-color: lightgoldenrodyellow;
+    margin: auto;
+    margin-bottom: 70px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+
+}
+
+
+.icon{
+	float: left;
+	margin-left: 200px;
+	margin-bottom: 10px;
+
+}
+
+.whiteshine{
+	background-image: url(https://img.wallpapersafari.com/desktop/1280/1024/43/89/L14HgD.jpg);
+	background-size: 110%;
+}
+
+
+
+.bestsellers{
+	padding: 50px;
+	margin-top: 20px;
+}
+.shiny{
+	padding: 50px;
+	background-image: url(https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDN8fHN0YXJ8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-size: 4000px;
+}
+
+.icon{
+	border-radius: 50%;
+}
+h3{
+	font-family: 'Niconne';
+	font-size: 40px;
+	text-decoration-color: rebeccapurple;
+}
+
+h3 a:hover{
+	color: hotpink;
+
+}
+
+.review{ padding: 30px;
+	font-family: Patrick Hand;
+	font-size: 20px;
+
+}
+.signup{
+	font-family: Patrick Hand;
+	font-size: 20px;
+	text-align: center;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoBdAtutE64JJ30JVcJUq46XPEUMEu-S5HYsbJZ82_f9t4B3UKPaNVNN2CnodE0fZEYc&usqp=CAU);
+	padding: 30px;
+
+}
+
+.footer{
+	/*margin-top: 20px;*/
+	text-align: center;
+	padding: 2px;
+	background-color: powderblue;
+}
